@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"name": "GA_Practice",
+			"path": "GA_Practice"
+		},
+		{
+			"name": "Unit_1",
+			"path": "Unit_1"
+		},
+		{
+			"name": "Unit_2",
+			"path": "Unit_2"
+		},
+		{
+			"name": "Unit_3",
+			"path": "Unit_3"
+		},
+		{
+			"name": "Unit_4",
+			"path": "Unit_4"
+		},
+		{
+			"name": "Unit_5",
+			"path": "Unit_5"
+		},
+		{
+			"name": "Unit_6",
+			"path": "Unit_6"
+		},
+		{
+			"name": "Python_programming",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
