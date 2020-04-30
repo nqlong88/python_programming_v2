@@ -63,7 +63,7 @@ nc1.save_to_file('movie_1_class10hw.json')
 
 
 #Sol:
-
+'''
 class MovieSol:
     def __init__(self, t, g, rt):
         self.title = t
@@ -74,3 +74,4 @@ class MovieSol:
     def compare_to(self,other_movie):
         for item in self.cast:
             if item in 
+'''
